@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053384573789",
+    "project_id": "nss-companion",
+    "storage_bucket": "nss-companion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053384573789:android:1a8be8e9f6721091505eb4",
+        "android_client_info": {
+          "package_name": "com.example.project_nss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053384573789-pha0h71p5hr89cebkdhr65tp2ha4c5pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHG8nR2-jtbNc0SA0DHHUVmNjoWsgtRxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053384573789-pha0h71p5hr89cebkdhr65tp2ha4c5pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
